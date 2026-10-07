@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.Shafare" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/shafare_black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Shafare.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/shafare_black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Shafare</item>
+    </style>
+</resources>

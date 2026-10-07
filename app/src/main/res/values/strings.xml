@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SHAFARE</string>
+    <string name="logo_description">SHAFARE logo</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_profile">Profile</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="loading_default">Loading…</string>
+    <string name="retry">Try again</string>
+    <string name="page_unavailable">Page unavailable</string>
+    <string name="page_unavailable_message">This page doesn\'t exist or you don\'t have access to it.</string>
+    <string name="go_to_home">Go to Home</string>
+</resources>
